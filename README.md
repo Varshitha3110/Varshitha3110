@@ -3,15 +3,11 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=220&section=header&text=Koguru%20Varshitha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20GenAI&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=KOGURU%20VARSHITHA&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20Generative%20AI%20%7C%20AWS&descAlignY=58&descSize=16&descColor=8b949e"/>
 </p>
 
-<h3 align="center">
-  ⚡ AIOps & MLOps Engineer | DevOps | AWS | Generative AI
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=667EEA&center=true&vCenter=true&width=800&lines=AIOps+%7C+MLOps+%7C+DevOps+Engineering;Distributed+Observability+%7C+OpenTelemetry+%7C+Grafana;AWS+Cloud+%7C+Amazon+Bedrock+%7C+Infrastructure+as+Code;Agentic+AI+%7C+RAG+%7C+Production+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=AIOps+%7C+MLOps+%7C+DevOps+Engineering;Distributed+Observability+%7C+OpenTelemetry+%7C+Grafana;AWS+Cloud Architecture+%7C+Amazon+Bedrock+%7C+IaC;Agentic+AI+%7C+Enterprise+RAG+%7C+Production+Deployment" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,6 +49,9 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 </a>
 
 ### DevOps & Cloud Infrastructure
+<a href="https://aws.amazon.com/">
+  <img src="https://cdn.simpleicons.org/amazon/FF9900" width="48" height="48" alt="AWS"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.docker.com/">
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker"/>
 </a>&nbsp;&nbsp;
@@ -62,16 +61,13 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 <a href="https://github.com/features/actions">
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48" alt="GitHub Actions"/>
 </a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS"/>
-</a>&nbsp;&nbsp;
 <a href="https://git-scm.com/">
   <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git"/>
 </a>
 
 ### Generative AI & Agentic Systems
 <a href="https://aws.amazon.com/bedrock/">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="Amazon Bedrock"/>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="48" alt="Amazon Bedrock"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.langchain.com/">
   <img src="https://cdn.simpleicons.org/langchain/1C1C1C" width="48" height="48" alt="LangChain"/>
@@ -217,5 +213,5 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:21262d&height=120&section=footer"/>
 </p>
