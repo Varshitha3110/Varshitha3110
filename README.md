@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=AIOps+%7C+MLOps+%7C+DevOps+Engineering;Distributed+Observability+%7C+OpenTelemetry+%7C+Grafana;AWS+Cloud Architecture+%7C+Amazon+Bedrock+%7C+IaC;Agentic+AI+%7C+Enterprise+RAG+%7C+Production+Deployment" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/koguru-varshitha-019140343/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -50,7 +46,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 
 ### DevOps & Cloud Infrastructure
 <a href="https://aws.amazon.com/">
-  <img src="https://cdn.simpleicons.org/amazon/FF9900" width="48" height="48" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="48" alt="AWS"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.docker.com/">
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker"/>
@@ -67,7 +63,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 
 ### Generative AI & Agentic Systems
 <a href="https://aws.amazon.com/bedrock/">
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="48" alt="Amazon Bedrock"/>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="48" alt="Amazon Bedrock"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.langchain.com/">
   <img src="https://cdn.simpleicons.org/langchain/1C1C1C" width="48" height="48" alt="LangChain"/>
@@ -145,7 +141,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
       <p>End-to-end GenAI inspection workflow with trace propagation and automated evaluation pipelines.</p>
       <p>
         <img src="https://img.shields.io/badge/MLOps-1976D2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
         <img src="https://img.shields.io/badge/Generative%20AI-7E57C2?style=flat-square"/>
       </p>
     </td>
@@ -155,7 +151,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
       <h3>💰 AWS FinOps AI Agent</h3>
       <p>Autonomous FinOps agent analyzing AWS billing metadata and automating cloud cost optimization.</p>
       <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
         <img src="https://img.shields.io/badge/AI%20Agents-512DA8?style=flat-square"/>
         <img src="https://img.shields.io/badge/DevOps-2088FF?style=flat-square"/>
       </p>
@@ -164,7 +160,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
       <h3>🎙️ Enterprise AI Voice Salesbot</h3>
       <p>Voice-enabled conversational system backed by Amazon Bedrock Knowledge Bases and RAG pipeline.</p>
       <p>
-        <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
         <img src="https://img.shields.io/badge/RAG-5C6BC0?style=flat-square"/>
         <img src="https://img.shields.io/badge/Voice%20AI-00897B?style=flat-square"/>
       </p>
