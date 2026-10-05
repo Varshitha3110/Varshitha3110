@@ -6,7 +6,7 @@
 
   <!-- Main Hero Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F0A18,20:4A102D,40:831843,60:BE185D,78:DB2777,100:500724&height=260&section=header&text=KOGURU%20VARSHITHA&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=62&descSize=17&descColor=FCE7F3"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:1F0A18,20:4A102D,40:831843,60:BE185D,78:DB2777,100:500724&height=260&section=header&text=KOGURU%20VARSHITHA&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=62&descSize=17&descColor=FCE7F3"
     width="100%"
   />
 
@@ -96,6 +96,7 @@
 </p>
 
 <br>
+
 ---
 
 ## 🚀 About Me
@@ -217,6 +218,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
         <img src="https://img.shields.io/badge/AIOps-3949AB?style=flat-square"/>
       </p>
     </td>
+
     <td width="50%">
       <h3>🚘 AI Vehicle Inspection & Evaluation Pipeline</h3>
       <p>End-to-end GenAI inspection workflow with trace propagation and automated evaluation pipelines.</p>
@@ -227,6 +229,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>💰 AWS FinOps AI Agent</h3>
@@ -237,6 +240,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
         <img src="https://img.shields.io/badge/DevOps-2088FF?style=flat-square"/>
       </p>
     </td>
+
     <td width="50%">
       <h3>🎙️ Enterprise AI Voice Salesbot</h3>
       <p>Voice-enabled conversational system backed by Amazon Bedrock Knowledge Bases and RAG pipeline.</p>
@@ -247,6 +251,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>✉️ Agentic Gmail Workflow Assistant</h3>
@@ -257,6 +262,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
+
     <td width="50%">
       <h3>🔬 TEM Image Analysis Pipeline</h3>
       <p>Computer vision service for microstructural particle detection and report generation.</p>
