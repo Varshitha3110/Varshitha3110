@@ -6,7 +6,7 @@
 
   <!-- Main Hero Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,35:F5F3FF,65:E0F2FE,100:EEF2FF&height=260&section=header&text=KOGURU%20VARSHITHA&fontSize=44&fontColor=1E293B&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=62&descSize=17&descColor=475569"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,30:FDF2F8,55:FCE7F3,75:EDE9FE,100:FFFFFF&height=260&section=header&text=KOGURU%20VARSHITHA&fontSize=44&fontColor=334155&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=62&descSize=17&descColor=64748B"
     width="100%"
   />
 
@@ -14,29 +14,29 @@
 
   <!-- Animated Introduction -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&height=45&lines=Building+Intelligent+%26+Observable+Systems;AIOps+%7C+MLOps+%7C+Cloud+%7C+Generative+AI;AWS+Architecture+%7C+Amazon+Bedrock+%7C+Agentic+AI;OpenTelemetry+%7C+Grafana+%7C+Distributed+Observability;Turning+AI+Ideas+into+Production-Ready+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1000&color=9D174D&center=true&vCenter=true&width=900&height=45&lines=Building+Intelligent+%26+Observable+Systems;AIOps+%7C+MLOps+%7C+Cloud+%7C+Generative+AI;AWS+Architecture+%7C+Amazon+Bedrock+%7C+Agentic+AI;OpenTelemetry+%7C+Grafana+%7C+Distributed+Observability;Turning+AI+Ideas+into+Production-Ready+Systems"
     alt="Typing SVG"
   />
 
   <br>
 
-  <!-- Professional Technology Areas -->
+  <!-- Technology Areas -->
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/AI%20%26%20GenAI-EDE9FE?style=for-the-badge&logo=googlecloud&logoColor=6D28D9"/>
+        <img src="https://img.shields.io/badge/AI%20%26%20GenAI-F5F3FF?style=for-the-badge&logo=googlecloud&logoColor=7C3AED"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/AIOps-FCE7F3?style=for-the-badge&logo=datadog&logoColor=BE185D"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/MLOps-E0F2FE?style=for-the-badge&logo=mlflow&logoColor=0369A1"/>
+        <img src="https://img.shields.io/badge/MLOps-F0F9FF?style=for-the-badge&logo=mlflow&logoColor=0369A1"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/AWS-FFF7ED?style=for-the-badge&logo=amazonaws&logoColor=EA580C"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/DevOps-ECFDF5?style=for-the-badge&logo=docker&logoColor=047857"/>
+        <img src="https://img.shields.io/badge/DevOps-FDF2F8?style=for-the-badge&logo=docker&logoColor=BE185D"/>
       </td>
     </tr>
   </table>
@@ -45,11 +45,13 @@
 
   <!-- Social Links -->
   <a href="https://www.linkedin.com/in/koguru-varshitha-019140343/">
-    <img src="https://img.shields.io/badge/LinkedIn-E8F1FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FDF2F8?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="https://github.com/Varshitha3110">
-    <img src="https://img.shields.io/badge/GitHub-F1F5F9?style=for-the-badge&logo=github&logoColor=1E293B"/>
+    <img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=334155"/>
   </a>
 
   <br><br>
@@ -63,31 +65,32 @@
 </div>
 
 <!-- ============================================================ -->
-<!--                     SOFT CURVED DIVIDER                       -->
+<!--                     CURVED PINK DIVIDER                       -->
 <!-- ============================================================ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,30:EDE9FE,55:DBEAFE,80:E0F2FE,100:FFFFFF&height=80&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,25:FCE7F3,50:FBCFE8,75:EDE9FE,100:FFFFFF&height=85&section=header"
     width="100%"
   />
 </p>
 
+<br>
+
 <!-- ============================================================ -->
-<!--                     PROFILE CONTENT                           -->
+<!--                     CONTENT START                             -->
 <!-- ============================================================ -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"
-    width="65%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=F9A8D4&height=3&section=header"
+    width="60%"
   />
 
 </div>
 
 <br>
-
 ---
 
 ## 🚀 About Me
