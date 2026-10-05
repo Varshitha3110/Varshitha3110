@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e1b4b,80:311042,100:0f172a&height=230&section=header&text=KOGURU%20VARSHITHA&fontSize=38&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20Generative%20AI%20%7C%20AWS&descAlignY=58&descSize=15&descColor=cbd5e1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,30:111827,70:1e1b4b,100:090d16&height=220&section=header&text=KOGURU%20VARSHITHA&fontSize=38&fontColor=f8fafc&animation=twinkling&fontAlignY=36&desc=AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20Generative%20AI%20%7C%20AWS&descAlignY=58&descSize=15&descColor=cbd5e1"/>
 </p>
 
 <p align="center">
