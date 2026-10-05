@@ -1,86 +1,66 @@
 <!-- ============================================================ -->
-<!--                     PROFILE HEADER                           -->
+<!--                    PROFILE HEADER                            -->
 <!-- ============================================================ -->
 
-<p align="center">
+<div align="center">
+
+  <!-- Main Hero Banner -->
   <img
-    src="./assets/profile-banner.png"
-    alt="Koguru Varshitha"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:0f172a,45:312e81,65:4c1d95,82:0e7490,100:020617&height=260&section=header&text=KOGURU%20VARSHITHA&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=62&descSize=17&descColor=e0f2fe"
     width="100%"
   />
-</p>
 
-<p align="center">
+  <br>
+
+  <!-- Animated Introduction -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1200&color=E2E8F0&center=true&vCenter=true&width=800&lines=AIOps+%7C+MLOps+%7C+DevOps+Engineering;Distributed+Observability+%7C+OpenTelemetry+%7C+Grafana;AWS+Cloud+Architecture+%7C+Amazon+Bedrock+%7C+IaC;Agentic+AI+%7C+Enterprise+RAG+%7C+Production+Deployment"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&height=45&lines=Building+Intelligent+%26+Observable+Systems;AIOps+%7C+MLOps+%7C+Cloud+%7C+Generative+AI;AWS+Architecture+%7C+Amazon+Bedrock+%7C+Agentic+AI;OpenTelemetry+%7C+Grafana+%7C+Distributed+Observability;Turning+AI+Ideas+into+Production-Ready+Systems"
     alt="Typing SVG"
   />
-</p>
 
-<p align="center">
+  <br>
+
+  <!-- Profile Summary -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI%20%26%20GenAI-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AIOps-EC4899?style=for-the-badge&logo=datadog&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MLOps-06B6D4?style=for-the-badge&logo=mlflow&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DevOps-22C55E?style=for-the-badge&logo=docker&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Social Links -->
   <a href="https://www.linkedin.com/in/koguru-varshitha-019140343/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
   </a>
-
+  &nbsp;
   <a href="https://github.com/Varshitha3110">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111827&labelColor=0F172A"/>
   </a>
-</p>
+
+  <br><br>
+
+  <!-- Short Professional Statement -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=A5B4FC&center=true&vCenter=true&width=850&height=30&lines=Designing+scalable+cloud-native+systems+with+AI+at+the+core." />
+
+</div>
 
 <!-- ============================================================ -->
-<!--                     TECH STACK                               -->
-<!-- ============================================================ -->
-
-<p align="center">
-
-  <img
-    src="https://img.shields.io/badge/AI%20%26%20GenAI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"
-    alt="AI and GenAI"
-  />
-
-  <img
-    src="https://img.shields.io/badge/AIOps-EC4899?style=for-the-badge&logo=datadog&logoColor=white"
-    alt="AIOps"
-  />
-
-  <img
-    src="https://img.shields.io/badge/MLOps-06B6D4?style=for-the-badge&logo=mlflow&logoColor=white"
-    alt="MLOps"
-  />
-
-  <img
-    src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827"
-    alt="AWS"
-  />
-
-  <img
-    src="https://img.shields.io/badge/DevOps-22C55E?style=for-the-badge&logo=docker&logoColor=white"
-    alt="DevOps"
-  />
-
-</p>
-
-<br>
-
-<!-- ============================================================ -->
-<!--                    PROFILE STATEMENT                         -->
-<!-- ============================================================ -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=A5B4FC&center=true&vCenter=true&width=850&height=30&lines=Designing+scalable+cloud-native+systems+with+AI+at+the+core."
-    alt="Profile statement"
-  />
-</p>
-
-<br>
-
-<!-- ============================================================ -->
-<!--                     COLOR DIVIDER                             -->
+<!--                     VISUAL DIVIDER                            -->
 <!-- ============================================================ -->
 
 <p align="center">
@@ -89,6 +69,8 @@
     width="85%"
   />
 </p>
+
+<br>
 
 ---
 
