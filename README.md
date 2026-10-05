@@ -6,7 +6,7 @@
 
   <!-- Main Hero Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:1F0A18,20:4A102D,40:831843,60:BE185D,78:DB2777,100:500724&height=260&section=header&text=KOGURU%20VARSHITHA&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=62&descSize=17&descColor=FCE7F3"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:0f172a,45:312e81,65:4c1d95,82:0e7490,100:020617&height=260&section=header&text=KOGURU%20VARSHITHA&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=62&descSize=17&descColor=e0f2fe"
     width="100%"
   />
 
@@ -24,33 +24,19 @@
   <table>
     <tr>
       <td align="center">
-        <img
-          src="https://img.shields.io/badge/AI%20%26%20GenAI-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white"
-        />
+        <img src="https://img.shields.io/badge/AI%20%26%20GenAI-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white"/>
       </td>
-
       <td align="center">
-        <img
-          src="https://img.shields.io/badge/AIOps-EC4899?style=for-the-badge&logo=datadog&logoColor=white"
-        />
+        <img src="https://img.shields.io/badge/AIOps-EC4899?style=for-the-badge&logo=datadog&logoColor=white"/>
       </td>
-
       <td align="center">
-        <img
-          src="https://img.shields.io/badge/MLOps-06B6D4?style=for-the-badge&logo=mlflow&logoColor=white"
-        />
+        <img src="https://img.shields.io/badge/MLOps-06B6D4?style=for-the-badge&logo=mlflow&logoColor=white"/>
       </td>
-
       <td align="center">
-        <img
-          src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827"
-        />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827"/>
       </td>
-
       <td align="center">
-        <img
-          src="https://img.shields.io/badge/DevOps-22C55E?style=for-the-badge&logo=docker&logoColor=white"
-        />
+        <img src="https://img.shields.io/badge/DevOps-22C55E?style=for-the-badge&logo=docker&logoColor=white"/>
       </td>
     </tr>
   </table>
@@ -58,29 +44,18 @@
   <br>
 
   <!-- Social Links -->
-
   <a href="https://www.linkedin.com/in/koguru-varshitha-019140343/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
   </a>
-
   &nbsp;
-
   <a href="https://github.com/Varshitha3110">
-    <img
-      src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111827&labelColor=0F172A"
-    />
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111827&labelColor=0F172A"/>
   </a>
 
   <br><br>
 
   <!-- Short Professional Statement -->
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=A5B4FC&center=true&vCenter=true&width=850&height=30&lines=Designing+scalable+cloud-native+systems+with+AI+at+the+core."
-    alt="Professional Statement"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=A5B4FC&center=true&vCenter=true&width=850&height=30&lines=Designing+scalable+cloud-native+systems+with+AI+at+the+core." />
 
 </div>
 
@@ -218,7 +193,6 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
         <img src="https://img.shields.io/badge/AIOps-3949AB?style=flat-square"/>
       </p>
     </td>
-
     <td width="50%">
       <h3>🚘 AI Vehicle Inspection & Evaluation Pipeline</h3>
       <p>End-to-end GenAI inspection workflow with trace propagation and automated evaluation pipelines.</p>
@@ -229,7 +203,6 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <h3>💰 AWS FinOps AI Agent</h3>
@@ -240,7 +213,6 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
         <img src="https://img.shields.io/badge/DevOps-2088FF?style=flat-square"/>
       </p>
     </td>
-
     <td width="50%">
       <h3>🎙️ Enterprise AI Voice Salesbot</h3>
       <p>Voice-enabled conversational system backed by Amazon Bedrock Knowledge Bases and RAG pipeline.</p>
@@ -251,7 +223,6 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <h3>✉️ Agentic Gmail Workflow Assistant</h3>
@@ -262,7 +233,6 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
-
     <td width="50%">
       <h3>🔬 TEM Image Analysis Pipeline</h3>
       <p>Computer vision service for microstructural particle detection and report generation.</p>
