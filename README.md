@@ -3,15 +3,15 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=220&section=header&text=Koguru%20Varshitha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20AWS%20%7C%20Generative%20AI&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=220&section=header&text=Koguru%20Varshitha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AIOps%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20%7C%20GenAI&descAlignY=58&descSize=18"/>
 </p>
 
 <h3 align="center">
-  ⚡ AI/ML Engineer | AWS | Generative AI | Agentic AI
+  ⚡ AIOps & MLOps Engineer | DevOps | AWS | Generative AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=667EEA&center=true&vCenter=true&width=800&lines=Building+Intelligent+Applications;Generative+AI+%7C+RAG+%7C+AI+Agents;AWS+Cloud+%7C+Amazon+Bedrock;MLOps+%7C+AIOps+%7C+Observability;Turning+Ideas+into+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=667EEA&center=true&vCenter=true&width=800&lines=AIOps+%7C+MLOps+%7C+DevOps+Engineering;Distributed+Observability+%7C+OpenTelemetry+%7C+Grafana;AWS+Cloud+%7C+Amazon+Bedrock+%7C+Infrastructure+as+Code;Agentic+AI+%7C+RAG+%7C+Production+Deployment" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-BCA Final-Year Student specializing in **Artificial Intelligence**, **Generative AI**, and **AWS Cloud Architecture**. Focused on building scalable, production-grade LLM applications, autonomous agent workflows, and distributed AIOps observability pipelines.
+Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside production **Generative AI** systems. Specializing in model lifecycle automation, cloud infrastructure, end-to-end distributed observability (tracing, logging, metrics), and scalable agentic AI workflows on AWS.
 
 ---
 
@@ -35,24 +35,41 @@ BCA Final-Year Student specializing in **Artificial Intelligence**, **Generative
 
 <div align="center">
 
-### Languages & Databases
-<a href="https://www.python.org/">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python"/>
+### MLOps, AIOps & Observability
+<a href="https://mlflow.org/">
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" height="48" alt="MLflow"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript"/>
+<a href="https://opentelemetry.io/">
+  <img src="https://cdn.simpleicons.org/opentelemetry/425CC7" width="48" height="48" alt="OpenTelemetry"/>
 </a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript"/>
+<a href="https://grafana.com/">
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="48" height="48" alt="Grafana"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.java.com/">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="48" height="48" alt="Java"/>
+<a href="https://prometheus.io/">
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48" height="48" alt="Prometheus"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL"/>
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI"/>
 </a>
 
-### AI, GenAI & Agentic Systems
+### DevOps & Cloud Infrastructure
+<a href="https://www.docker.com/">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker"/>
+</a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/">
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" height="48" alt="Kubernetes"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48" alt="GitHub Actions"/>
+</a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/">
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS"/>
+</a>&nbsp;&nbsp;
+<a href="https://git-scm.com/">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git"/>
+</a>
+
+### Generative AI & Agentic Systems
 <a href="https://aws.amazon.com/bedrock/">
   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="Amazon Bedrock"/>
 </a>&nbsp;&nbsp;
@@ -69,35 +86,18 @@ BCA Final-Year Student specializing in **Artificial Intelligence**, **Generative
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48" height="48" alt="OpenCV"/>
 </a>
 
-### Cloud & Infrastructure
-<a href="https://aws.amazon.com/s3/">
-  <img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="AWS S3"/>
+### Languages & Databases
+<a href="https://www.python.org/">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python"/>
 </a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/lambda/">
-  <img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48" height="48" alt="AWS Lambda"/>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript"/>
 </a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/ec2/">
-  <img src="https://cdn.simpleicons.org/amazonec2/FF9900" width="48" height="48" alt="AWS EC2"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.docker.com/">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker"/>
-</a>&nbsp;&nbsp;
-<a href="https://git-scm.com/">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git"/>
-</a>
-
-### MLOps & Observability
-<a href="https://fastapi.tiangolo.com/">
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI"/>
-</a>&nbsp;&nbsp;
-<a href="https://mlflow.org/">
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" height="48" alt="MLflow"/>
-</a>&nbsp;&nbsp;
-<a href="https://opentelemetry.io/">
-  <img src="https://cdn.simpleicons.org/opentelemetry/425CC7" width="48" height="48" alt="OpenTelemetry"/>
-</a>&nbsp;&nbsp;
-<a href="https://grafana.com/">
-  <img src="https://cdn.simpleicons.org/grafana/F46800" width="48" height="48" alt="Grafana"/>
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL"/>
 </a>
 
 </div>
@@ -131,33 +131,53 @@ BCA Final-Year Student specializing in **Artificial Intelligence**, **Generative
 
 ---
 
-## 💻 Featured Projects
+## 💻 Featured Projects & Solutions
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🎙️ AI Voice Salesbot</h3>
-      <p>Voice-enabled sales assistant combining real-time speech processing with enterprise Bedrock Knowledge Bases.</p>
+      <h3>📊 AIOps Observability Platform</h3>
+      <p>Distributed tracing and log correlation engine across microservices for automatic anomaly detection.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AIOps-3949AB?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🚘 AI Vehicle Inspection & Evaluation Pipeline</h3>
+      <p>End-to-end GenAI inspection workflow with trace propagation and automated evaluation pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MLOps-1976D2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/Generative%20AI-7E57C2?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 AWS FinOps AI Agent</h3>
+      <p>Autonomous FinOps agent analyzing AWS billing metadata and automating cloud cost optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+        <img src="https://img.shields.io/badge/AI%20Agents-512DA8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DevOps-2088FF?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🎙️ Enterprise AI Voice Salesbot</h3>
+      <p>Voice-enabled conversational system backed by Amazon Bedrock Knowledge Bases and RAG pipeline.</p>
       <p>
         <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/RAG-5C6BC0?style=flat-square"/>
         <img src="https://img.shields.io/badge/Voice%20AI-00897B?style=flat-square"/>
       </p>
     </td>
-    <td width="50%">
-      <h3>💰 AWS FinOps AI Agent</h3>
-      <p>Autonomous agent analyzing billing data and recommending cloud cost-optimization strategies.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-        <img src="https://img.shields.io/badge/AI%20Agents-512DA8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FinOps-1976D2?style=flat-square"/>
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>✉️ Agentic Gmail AI</h3>
-      <p>Smart email automation assistant powered by multi-agent decision workflows.</p>
+      <h3>✉️ Agentic Gmail Workflow Assistant</h3>
+      <p>Multi-agent automated decision workflow for processing and organizing enterprise email streams.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square"/>
@@ -165,32 +185,12 @@ BCA Final-Year Student specializing in **Artificial Intelligence**, **Generative
       </p>
     </td>
     <td width="50%">
-      <h3>🔬 TEM Image Analysis Dashboard</h3>
-      <p>Computer vision system for particle detection and automated analysis on TEM micrographs.</p>
+      <h3>🔬 TEM Image Analysis Pipeline</h3>
+      <p>Computer vision service for microstructural particle detection and report generation.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 AIOps Observability Platform</h3>
-      <p>Distributed tracing and logging architecture for microservices telemetry correlation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🚘 AI Vehicle Inspection Pipeline</h3>
-      <p>End-to-end GenAI visual inspection pipeline integrated with trace evaluation mechanisms.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Generative%20AI-7E57C2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-        <img src="https://img.shields.io/badge/AIOps-3949AB?style=flat-square"/>
       </p>
     </td>
   </tr>
