@@ -157,11 +157,16 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 
 <p align="center">
 
-<!-- AI Practitioner Badge -->
 
+<!-- AI Practitioner Badge -->
 <a href="https://www.credly.com/badges/c48902b2-0310-4bd6-85fb-6bfee8638ceb/public_url" target="_blank">
-  <img src="PASTE_DIRECT_BADGE_IMAGE_URL_HERE" alt="AI Practitioner Badge" width="150">
+  <img
+    src="https://images.credly.com/images/c48902b2-0310-4bd6-85fb-6bfee8638ceb/blob"
+    alt="AWS AI Practitioner Badge"
+    width="150"
+  />
 </a>
+
 
 <a href="https://www.credly.com/badges/7a39f0f4-94b4-437c-8c71-f488c8e51dcf/linked_in_profile">
   <img src="https://images.credly.com/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/blob" width="130" alt="AWS Partner Agentic AI Essentials"/>
