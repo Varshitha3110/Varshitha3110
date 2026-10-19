@@ -158,14 +158,14 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 <p align="center">
 
 
-<!-- AI Practitioner Badge -->
-<a href="https://www.credly.com/badges/c48902b2-0310-4bd6-85fb-6bfee8638ceb/public_url" target="_blank">
-  <img
-    src="https://images.credly.com/images/c48902b2-0310-4bd6-85fb-6bfee8638ceb/blob"
-    alt="AWS AI Practitioner Badge"
-    width="150"
-  />
+
+<!-- AWS AI Practitioner Badge -->
+<a href="https://www.credly.com/earner/earned/share/c48902b2-0310-4bd6-85fb-6bfee8638ceb" target="_blank">
+  <img src="./aws-certified-cloud-practitioner.png"
+       alt="AWS AI Practitioner Badge"
+       width="130">
 </a>
+
 
 
 <a href="https://www.credly.com/badges/7a39f0f4-94b4-437c-8c71-f488c8e51dcf/linked_in_profile">
