@@ -160,7 +160,7 @@ Engineers distributed **AIOps**, **MLOps**, and **DevOps** solutions alongside p
 <!-- AI Practitioner Badge -->
 <a href="https://www.credly.com/badges/c48902b2-0310-4bd6-85fb-6bfee8638ceb/public_url">
   <img
-    src="https://images.credly.com/images/c48902b2-0310-4bd6-85fb-6bfee8638ceb/blob"
+    src="https://www.credly.com/earner/earned/badge/c48902b2-0310-4bd6-85fb-6bfee8638ceb"
     width="130"
     alt="AI Practitioner Badge"
   />
